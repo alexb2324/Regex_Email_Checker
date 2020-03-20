@@ -5,13 +5,7 @@ with open("Temp_data.txt", 'r') as Temp_txt:
 
 print(data)
 
-
-
-
-
 text = ''
-
-
 lmao = '''
 
 email@example.com
@@ -37,8 +31,3 @@ matches = email_pattern.finditer(data)
 
 for match in matches:
     print(match)
-
-
-
-
-
