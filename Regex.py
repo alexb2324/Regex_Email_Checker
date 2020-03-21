@@ -6,6 +6,7 @@ with open("Temp_data.txt", 'r') as Temp_txt:
 text = ''
 lmao = '''
 
+
 email@example.com
 firstname.lastname@example.com
 email@subdomain.example.com
@@ -18,6 +19,7 @@ email@example.name
 email@example.museum
 email@example.co.jp
 firstname-lastname@example.com
+
 
 '''
 
