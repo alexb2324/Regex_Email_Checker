@@ -3,7 +3,7 @@ List = []
 with open("Temp_data.txt", 'r') as Temp_txt:
     data = Temp_txt.read()
 
-text = ''
+
 lmao = '''
 
 
